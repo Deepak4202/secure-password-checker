@@ -12,7 +12,7 @@ Installation & Usage 🖥️
 
 1️⃣ Clone the Repository
 
- git clone https://github.com/your-username/password-strength-checker.git
+ git clone https://github.com/Deepak4202/secure-password-checker.git
  cd password-strength-checker
 
 2️⃣ Run the Script
